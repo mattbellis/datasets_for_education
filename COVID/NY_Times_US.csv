@@ -1,3 +1,6 @@
+# https://github.com/nytimes/covid-19-data
+# Retrieved on 2/1/2022
+date,cases,deaths
 2020-01-23,1,0
 2020-01-24,1,0
 2020-01-25,1,0
