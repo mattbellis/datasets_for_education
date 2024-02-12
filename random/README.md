@@ -6,3 +6,6 @@ https://archive.ics.uci.edu/ml/datasets/Iris
 
 Cleaned version from 
 https://gist.github.com/curran/a08a1080b88344b0c8a7
+
+# James Hoffman Great American Taste Test 
+https://www.youtube.com/watch?v=bMOOQfeloH0
